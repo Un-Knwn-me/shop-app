@@ -31,3 +31,7 @@
   text-decoration: line-through;
 }
 
+.rating {
+  display: flex;
+  justify-content: center;
+}
