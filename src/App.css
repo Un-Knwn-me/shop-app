@@ -31,7 +31,7 @@
   text-decoration: line-through;
 }
 
-.rating {
+.center {
   display: flex;
   justify-content: center;
 }
